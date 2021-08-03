@@ -13,6 +13,10 @@ not efficient at all which will be our conclusion.
 An algorithm has to be developed in a way that it offers high efficiency and that is how the quality of that algorithm is measure by,
 so to achieve this target we have to deduce another approach to solve our problem .
 
+So.....THE ALGORITHM ! 
+I have uploaded the code for a sudoku solver , the algorithm was really confusing for my mind to even process it the first time , so it took me 8 views after which the algorithm 
+started making sense to my brain. I just hope you find the code useful. I am still working to complete this description and explanation as soon as possible .
+
 
 
 

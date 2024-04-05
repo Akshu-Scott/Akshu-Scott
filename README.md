@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshay-Badithe
-- Hey there, glad you're here!Dive into my repositories for a journey through diverse projects. You'll find them all buzzing with Data Analysis Tools, unlocking fascinating insights along the way!" 
+-  Glad you're here! Now, dive into my repositories for a journey through diverse projects. You'll find them all buzzing with Data Analysis Tools, unlocking fascinating insights along the way!" 
 - 📫 How to reach me  - you can contact me through email , my email address is : A.badithe1@uni.brighton.ac.uk
 
 <!---
